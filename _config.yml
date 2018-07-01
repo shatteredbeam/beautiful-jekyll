@@ -26,7 +26,7 @@ navbar-links:
   GitHub Repo: "https://github.com/fuelrats/pipsqueak3"
   Issue Tracker:  "https://jira.fuelrats.com/projects/SPARK"
   Resources:
-    - ReadMe: "README"|
+    - ReadMe: "README"
     - Contributing: "CONTRIBUTING"
     - Testing: "TESTING"
     - GitHub Pages: "https://pages.github.com/"
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bg.png"
 
 # --- Footer options --- #
 
