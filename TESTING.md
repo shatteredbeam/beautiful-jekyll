@@ -1,3 +1,8 @@
+---
+title: Testing Guidelines
+subtitle: Writing effective tests for the project
+---
+
 # Testing Guidelines
 
 > The Enrichment Center once again reminds you that Android Hell is a real place where you will be sent at the first sign of defiance. --GLaDOS (Portal)

@@ -1,3 +1,8 @@
+---
+title: Contributing to Mecha3
+subtitle: How do I get involved?
+---
+
 # Contributing
 
 >Welcome!  Contributors are welcome, under the following guidelines.  You don't have to be a member of our GitHub Org to contribute!

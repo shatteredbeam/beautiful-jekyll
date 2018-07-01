@@ -23,10 +23,10 @@ description: Technical documentation for Mechasqueak 3
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Project README: "README"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Contributing: "CONTRIBUTING"
+    - Testing: "TESTING"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
